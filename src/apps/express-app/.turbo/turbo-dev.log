@@ -1,0 +1,11 @@
+[35mexpress-app:dev[0m: cache hit, replaying output [2m476a6dac20ab7bad[0m
+[35mexpress-app:dev: [0m
+[35mexpress-app:dev: [0m> express-app@1.0.0 dev /Users/michaelliriano/Desktop/Code/web-starter/src/apps/express-app
+[35mexpress-app:dev: [0m> nodemon index.js
+[35mexpress-app:dev: [0m
+[35mexpress-app:dev: [0m[33m[nodemon] 2.0.19[39m
+[35mexpress-app:dev: [0m[33m[nodemon] to restart at any time, enter `rs`[39m
+[35mexpress-app:dev: [0m[33m[nodemon] watching path(s): *.*[39m
+[35mexpress-app:dev: [0m[33m[nodemon] watching extensions: js,mjs,json[39m
+[35mexpress-app:dev: [0m[32m[nodemon] starting `node index.js`[39m
+[35mexpress-app:dev: [0mServer running on http://localhost:3000

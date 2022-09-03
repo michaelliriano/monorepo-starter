@@ -1,0 +1,11 @@
+[32mutilities:dev[0m: cache hit, replaying output [2mdefe7d6068dc2e4a[0m
+[32mutilities:dev: [0m
+[32mutilities:dev: [0m> utilities@1.0.0 dev /Users/michaelliriano/Desktop/Code/web-starter/src/packages/utilities
+[32mutilities:dev: [0m> nodemon index.js
+[32mutilities:dev: [0m
+[32mutilities:dev: [0m[33m[nodemon] 2.0.19[39m
+[32mutilities:dev: [0m[33m[nodemon] to restart at any time, enter `rs`[39m
+[32mutilities:dev: [0m[33m[nodemon] watching path(s): *.*[39m
+[32mutilities:dev: [0m[33m[nodemon] watching extensions: js,mjs,json[39m
+[32mutilities:dev: [0m[32m[nodemon] starting `node index.js`[39m
+[32mutilities:dev: [0m[32m[nodemon] clean exit - waiting for changes before restart[39m
