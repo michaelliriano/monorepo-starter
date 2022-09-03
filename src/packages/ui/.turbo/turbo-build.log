@@ -1,0 +1,22 @@
+[35mui:build[0m: cache hit, replaying output [2mc5d3dbf1b89db897[0m
+[35mui:build: [0m
+[35mui:build: [0m> ui@0.1.0 build /Users/michaelliriano/Desktop/Code/web-starter/src/packages/ui
+[35mui:build: [0m> tsup src/index.tsx --format esm,cjs --dts --external react
+[35mui:build: [0m
+[35mui:build: [0mCLI Building entry: src/index.tsx
+[35mui:build: [0mCLI Using tsconfig: tsconfig.json
+[35mui:build: [0mCLI tsup v6.2.3
+[35mui:build: [0mCLI Target: node14
+[35mui:build: [0mESM Build start
+[35mui:build: [0mCJS Build start
+[35mui:build: [0mCJS dist/logo-P4A3INCU.svg 2.57 KB
+[35mui:build: [0mCJS dist/index.js          2.79 KB
+[35mui:build: [0mCJS dist/index.css         1019.00 B
+[35mui:build: [0mCJS ⚡️ Build success in 216ms
+[35mui:build: [0mESM dist/logo-P4A3INCU.svg 2.57 KB
+[35mui:build: [0mESM dist/index.css         1019.00 B
+[35mui:build: [0mESM dist/index.mjs         1.65 KB
+[35mui:build: [0mESM ⚡️ Build success in 225ms
+[35mui:build: [0mDTS Build start
+[35mui:build: [0mDTS ⚡️ Build success in 1107ms
+[35mui:build: [0mDTS dist/index.d.ts 1.00 B

@@ -8,6 +8,8 @@ RUN npm install -g pnpm
 
 RUN pnpm install
 
+RUN pnpm build
+
 COPY . /usr/src/app
 
 CMD pnpm start

@@ -6,23 +6,31 @@
   "workspaces": {
     "packages": [
       "src/packages/*",
-      "src/apps/*",
-      "src/wrappers/*"
+      "src/apps/*"
     ]
   },
   "scripts": {
     "dev": "turbo run dev",
     "build": "turbo run build",
-    "start": "turbo run start",
-    "clean": "rm -rf node_modules"
+    "clean": "rm -rf node_modules",
+    "cli": "node src/cli/index.js",
+    "create-next-app" : "pnpm cli create-react-app --next",
+    "create-react-app" : "pnpm cli create-react-app --react",
+    "create-ui-package" : "pnpm cli create-react-app --ui",
+    "create-express-app" : "pnpm cli create-express-app",
+    "deploy": "./deploy.sh",
+    "start": "turbo run start"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^5.0.1",
+    "commander": "^9.4.0",
     "dotenv": "^16.0.2",
     "express": "^4.18.1",
-    "nodemon": "^2.0.19"
+    "nodemon": "^2.0.19",
+    "tsup": "^6.2.3"
   },
   "devDependencies": {
     "turbo": "^1.4.5"

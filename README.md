@@ -37,6 +37,16 @@
 <p>Run Application in Docker</p>
 <ul>
   <li>./deploy.sh</li>
-
 </ul>
 
+<h3>CLI Instructions</h3>
+
+<p>Create React App</p>
+<ul>
+  <li>pnpm cli create-react-app --ui react-app</li>
+</ul>
+
+<p>Create NextJS App</p>
+<ul>
+  <li>pnpm cli create-react-app --next next-app</li>
+</ul>

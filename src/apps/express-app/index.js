@@ -7,7 +7,7 @@ require('dotenv').config({
 
 const express = require("express");
 const app = express();
-const PORT = process.env.WEBAPP_PORT || 3000
+const PORT = 8080
 const { greet, _, add } = require("utilities");
 
 app.get("/", (req, res) => {

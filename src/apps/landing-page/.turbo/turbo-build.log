@@ -1,0 +1,30 @@
+[33mlanding-page:build[0m: cache hit, replaying output [2mf4b5ec7c70e21253[0m
+[33mlanding-page:build: [0m
+[33mlanding-page:build: [0m> landing-page@0.1.0 build /Users/michaelliriano/Desktop/Code/web-starter/src/apps/landing-page
+[33mlanding-page:build: [0m> next build
+[33mlanding-page:build: [0m
+[33mlanding-page:build: [0minfo  - SWC minify release candidate enabled. https://nextjs.link/swcmin
+[33mlanding-page:build: [0minfo  - Linting and checking validity of types...
+[33mlanding-page:build: [0minfo  - Creating an optimized production build...
+[33mlanding-page:build: [0minfo  - Compiled successfully
+[33mlanding-page:build: [0minfo  - Collecting page data...
+[33mlanding-page:build: [0minfo  - Generating static pages (0/3)
+[33mlanding-page:build: [0minfo  - Generating static pages (3/3)
+[33mlanding-page:build: [0minfo  - Finalizing page optimization...
+[33mlanding-page:build: [0m
+[33mlanding-page:build: [0mRoute (pages)                              Size     First Load JS
+[33mlanding-page:build: [0m┌ ○ /                                      5.41 kB        83.3 kB
+[33mlanding-page:build: [0m├   └ css/ae0e3e027412e072.css             707 B
+[33mlanding-page:build: [0m├   /_app                                  0 B            77.9 kB
+[33mlanding-page:build: [0m├ ○ /404                                   187 B          78.1 kB
+[33mlanding-page:build: [0m└ λ /api/hello                             0 B            77.9 kB
+[33mlanding-page:build: [0m+ First Load JS shared by all              78.1 kB
+[33mlanding-page:build: [0m  ├ chunks/framework-02d2f136a174ac42.js   45.7 kB
+[33mlanding-page:build: [0m  ├ chunks/main-9a22edb99940c885.js        30.9 kB
+[33mlanding-page:build: [0m  ├ chunks/pages/_app-f3b739d619ba1d30.js  500 B
+[33mlanding-page:build: [0m  ├ chunks/webpack-7ee66019f7f6d30f.js     755 B
+[33mlanding-page:build: [0m  └ css/ab44ce7add5c3d11.css               247 B
+[33mlanding-page:build: [0m
+[33mlanding-page:build: [0mλ  (Server)  server-side renders at runtime (uses getInitialProps or getServerSideProps)
+[33mlanding-page:build: [0m○  (Static)  automatically rendered as static HTML (uses no initial props)
+[33mlanding-page:build: [0m

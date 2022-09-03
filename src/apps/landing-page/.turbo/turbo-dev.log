@@ -1,0 +1,10 @@
+[34mlanding-page:dev[0m: cache hit, replaying output [2md9629bb4007b5934[0m
+[34mlanding-page:dev: [0m
+[34mlanding-page:dev: [0m> landing-page@0.1.0 dev /Users/michaelliriano/Desktop/Code/web-starter/src/apps/landing-page
+[34mlanding-page:dev: [0m> next dev
+[34mlanding-page:dev: [0m
+[34mlanding-page:dev: [0mready - started server on 0.0.0.0:3000, url: http://localhost:3000
+[34mlanding-page:dev: [0minfo  - SWC minify release candidate enabled. https://nextjs.link/swcmin
+[34mlanding-page:dev: [0mevent - compiled client and server successfully in 327 ms (178 modules)
+[34mlanding-page:dev: [0mwait  - compiling...
+[34mlanding-page:dev: [0mevent - compiled client and server successfully in 36 ms (178 modules)

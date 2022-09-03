@@ -1,0 +1,24 @@
+[33mui:dev[0m: cache hit, replaying output [2m529d2fcd2ef0ea36[0m
+[33mui:dev: [0m
+[33mui:dev: [0m> ui@0.1.0 dev /Users/michaelliriano/Desktop/Code/web-starter/src/packages/ui
+[33mui:dev: [0m> PORT=3001 react-scripts start
+[33mui:dev: [0m
+[33mui:dev: [0m(node:33705) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+[33mui:dev: [0m(Use `node --trace-deprecation ...` to show where the warning was created)
+[33mui:dev: [0m(node:33705) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+[33mui:dev: [0mStarting the development server...
+[33mui:dev: [0m
+[33mui:dev: [0mCompiled successfully!
+[33mui:dev: [0m
+[33mui:dev: [0mYou can now view ui in the browser.
+[33mui:dev: [0m
+[33mui:dev: [0m  Local:            http://localhost:3001
+[33mui:dev: [0m  On Your Network:  http://192.168.12.38:3001
+[33mui:dev: [0m
+[33mui:dev: [0mNote that the development build is not optimized.
+[33mui:dev: [0mTo create a production build, use npm run build.
+[33mui:dev: [0m
+[33mui:dev: [0mwebpack compiled successfully
+[33mui:dev: [0mFiles successfully emitted, waiting for typecheck results...
+[33mui:dev: [0mIssues checking in progress...
+[33mui:dev: [0mNo issues found.
