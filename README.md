@@ -1,26 +1,42 @@
-Monorepo Starter Using Turborepo, Docker, NodeJS & Nginx
+<h1>Monorepo Starter Using Turborepo, Docker, NodeJS & Nginx</h1>
 
-Requirements
--   Docker
--   NodeJS
--   PNPM
+<h3>Requirements</h3>
 
-How to Run Project
+<ul>
+  <li><a href="https://www.docker.com/">Docker</a></li>
+  <li><a href="https://nodejs.org/en/download/">NodeJS</a></li>
+  <li><a href="https://pnpm.io/installation">PNPM</a></li>
+</ul>
 
-Step 1 - Create .env file with these variables
--   WEBAPP_PORT=ADD PORT HERE (EX. 3000)
--   NGINX_PORT=ADD PORT HERE (EX. 80)
+<hr />
 
+<h3>How to Run Project</h3>
 
-Step 1 - Install Packages
--   pnpm install
+<p>Create .env file with these variables</p>
+<ul>
+  <li>WEBAPP_PORT=ADD PORT HERE (Ex. 3000)</li>
+  <li>NGINX_PORT=ADD PORT HERE (Ex. 80)</li>
+</ul>
 
-Step 2 - Start Development Server
--   pnpm dev
+<p>Install Packages</p>
+<ul>
+  <li>pnpm install</li>
+</ul>
 
-Step 3 - Start Production Server
--   pnpm build
--   pnpm start
+<p>Start Development Server</p>
+<ul>
+  <li>pnpm dev</li>
+</ul>
 
-Step 4 - Run Application in Docker
--   ./deploy.sh
+<p>Start Production Server</p>
+<ul>
+  <li>pnpm build</li>
+  <li>pnpm start</li>
+</ul>
+
+<p>Run Application in Docker</p>
+<ul>
+  <li>./deploy.sh</li>
+
+</ul>
+
